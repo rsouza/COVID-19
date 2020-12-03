@@ -2628,7 +2628,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 18159,Tipton,Indiana,US,2020-05-23 02:32:42,40.31123252,-86.05234925,21,1,0,20,"Tipton, Indiana, US"
 47167,Tipton,Tennessee,US,2020-05-23 02:32:42,35.501942,-89.73694895,423,2,0,421,"Tipton, Tennessee, US"
 28141,Tishomingo,Mississippi,US,2020-05-23 02:32:42,34.74023475,-88.23917219,22,0,0,22,"Tishomingo, Mississippi, US"
-48449,Titus,Texas,US,2020-05-23 02:32:42,33.21339719,-94.96797273,248,2,0,246,"Titus, Texas, US"
+48449,Titus,Texas,US,2020-05-23 02:32:42,33.21339719,-94.96797273,221,2,0,246,"Titus, Texas, US"
 21219,Todd,Kentucky,US,2020-05-23 02:32:42,36.8381152,-87.17878374,16,0,0,16,"Todd, Kentucky, US"
 27153,Todd,Minnesota,US,2020-05-23 02:32:42,46.06996226,-94.89785296,140,0,0,140,"Todd, Minnesota, US"
 46121,Todd,South Dakota,US,2020-05-23 02:32:42,43.19338568,-100.7195503,17,0,0,17,"Todd, South Dakota, US"
@@ -3141,6 +3141,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Northern Territory,Australia,2020-05-23 02:32:42,-12.4634,130.8456,29,0,29,0,"Northern Territory, Australia"
 ,,Northwest Territories,Canada,2020-05-23 02:32:42,64.8255,-124.8457,5,0,5,0,"Northwest Territories, Canada"
 ,,Nova Scotia,Canada,2020-05-23 02:32:42,44.681999999999995,-63.7443,1048,58,961,29,"Nova Scotia, Canada"
+,,Nunavut,Canada,2020-05-23 02:32:42,70.2998,-83.1076,0,0,0,0,"Nunavut, Canada"
 ,,Nuble,Chile,2020-05-23 02:32:42,-36.7226,-71.7622,1025,21,0,1004,"Nuble, Chile"
 ,,Nuevo Leon,Mexico,2020-05-23 02:32:42,25.5922,-99.9962,1089,62,688,339,"Nuevo Leon, Mexico"
 ,,OHiggins,Chile,2020-05-23 02:32:42,-48.4674,-72.5592,492,8,0,484,"OHiggins, Chile"
@@ -3224,7 +3225,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Yunnan,China,2020-05-23 02:32:42,24.974,101.48700000000001,185,2,183,0,"Yunnan, China"
 ,,Zacatecas,Mexico,2020-05-23 02:32:42,22.7709,-102.5832,223,27,146,50,"Zacatecas, Mexico"
 ,,Zhejiang,China,2020-05-23 02:32:42,29.1832,120.0934,1268,1,1267,0,"Zhejiang, China"
-,,,Afghanistan,2020-05-23 02:32:42,33.93911,67.709953,9216,205,996,8015,Afghanistan
+,,,Afghanistan,2020-05-23 02:32:42,33.93911,67.709953,9219,206,996,8015,Afghanistan
 ,,,Albania,2020-05-23 02:32:42,41.1533,20.1683,981,31,777,173,Albania
 ,,,Algeria,2020-05-23 02:32:42,28.0339,1.6596,7918,582,4256,3080,Algeria
 ,,,Andorra,2020-05-23 02:32:42,42.5063,1.5218,762,51,652,59,Andorra

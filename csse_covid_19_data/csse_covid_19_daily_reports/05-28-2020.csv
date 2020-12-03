@@ -3223,6 +3223,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Northern Territory,Australia,2020-05-29 02:32:50,-12.4634,130.8456,29,0,29,0,"Northern Territory, Australia"
 ,,Northwest Territories,Canada,2020-05-29 02:32:50,64.8255,-124.8457,5,0,5,0,"Northwest Territories, Canada"
 ,,Nova Scotia,Canada,2020-05-29 02:32:50,44.681999999999995,-63.7443,1055,59,977,19,"Nova Scotia, Canada"
+,,Nunavut,Canada,2020-05-29 02:32:50,70.2998,-83.1076,0,0,0,0,"Nunavut, Canada"
 ,,Nuble,Chile,2020-05-29 02:32:50,-36.7226,-71.7622,1205,22,0,1183,"Nuble, Chile"
 ,,Nuevo Leon,Mexico,2020-05-29 02:32:50,25.5922,-99.9962,1324,80,934,310,"Nuevo Leon, Mexico"
 ,,OHiggins,Chile,2020-05-29 02:32:50,-48.4674,-72.5592,705,14,0,691,"OHiggins, Chile"
@@ -3343,7 +3344,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Yunnan,China,2020-05-29 02:32:50,24.974,101.48700000000001,185,2,183,0,"Yunnan, China"
 ,,Zacatecas,Mexico,2020-05-29 02:32:50,22.7709,-102.5832,272,31,182,59,"Zacatecas, Mexico"
 ,,Zhejiang,China,2020-05-29 02:32:50,29.1832,120.0934,1268,1,1267,0,"Zhejiang, China"
-,,,Afghanistan,2020-05-29 02:32:50,33.93911,67.709953,13036,235,1209,11592,Afghanistan
+,,,Afghanistan,2020-05-29 02:32:50,33.93911,67.709953,13039,236,1209,11592,Afghanistan
 ,,,Albania,2020-05-29 02:32:50,41.1533,20.1683,1076,33,823,220,Albania
 ,,,Algeria,2020-05-29 02:32:50,28.0339,1.6596,8997,630,5277,3090,Algeria
 ,,,Andorra,2020-05-29 02:32:50,42.5063,1.5218,763,51,681,31,Andorra

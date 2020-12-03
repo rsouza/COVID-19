@@ -2415,6 +2415,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Northern Territory,Australia,2020-04-03 22:52:45,-12.4634,130.8456,22,0,0,22,"Northern Territory, Australia"
 ,,Northwest Territories,Canada,2020-04-03 22:52:30,64.8255,-124.8457,2,0,0,0,",Northwest Territories,Canada"
 ,,Nova Scotia,Canada,2020-04-03 22:52:30,44.681999999999995,-63.7443,207,0,0,0,"Nova Scotia, Canada"
+,,Nunavut,Canada,2020-04-03 22:52:30,70.2998,-83.1076,0,0,0,0,"Nunavut, Canada"
 ,,Ontario,Canada,2020-04-03 22:52:30,51.2538,-85.3232,3255,67,0,0,"Ontario, Canada"
 ,,Prince Edward Island,Canada,2020-04-03 22:52:30,46.5107,-63.4168,22,0,0,0,"Prince Edward Island, Canada"
 72,,Puerto Rico,US,2020-04-03 22:46:37,18.2208,-66.5901,316,15,0,0,"Puerto Rico, US"
@@ -2445,7 +2446,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Yukon,Canada,2020-04-03 22:52:30,64.2823,-135.0,6,0,0,0,",Yukon,Canada"
 ,,Yunnan,China,2020-04-02 23:33:43,24.974,101.48700000000001,184,2,172,10,"Yunnan, China"
 ,,Zhejiang,China,2020-04-03 03:12:20,29.1832,120.0934,1260,1,1228,31,"Zhejiang, China"
-,,,Afghanistan,2020-04-03 22:46:20,33.93911,67.709953,281,6,10,265,Afghanistan
+,,,Afghanistan,2020-04-03 22:46:20,33.93911,67.709953,275,8,10,265,Afghanistan
 ,,,Albania,2020-04-03 22:46:20,41.1533,20.1683,304,17,89,198,Albania
 ,,,Algeria,2020-04-03 22:46:20,28.0339,1.6596,1171,105,62,1004,Algeria
 ,,,Andorra,2020-04-03 22:46:20,42.5063,1.5218,439,16,16,407,Andorra
