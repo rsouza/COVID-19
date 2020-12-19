@@ -624,3 +624,12 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 12/12/2020,time_series_covid19_confirmed_global.csv,Madagascar,12/05/2020,17513,17473,Update from Madagascar news source
 12/12/2020,time_series_covid19_confirmed_global.csv,Madagascar,12/06/2020,17513,17473,Update from Madagascar news source
 12/12/2020,time_series_covid19_confirmed_global.csv,Madagascar,12/07/2020,17513,17473,Update from Madagascar news source
+12/13/2020,time_series_covid19_deaths_global.csv,US,03/07/2020-12/12/2020,,,Update from Texas State source
+12/13/2020,time_series_covid19_deaths_us.csv,"Dallas County, Texas",03/07/2020-12/12/2020,,,Update from Texas State source
+12/14/2020,time_series_covid19_confirmed_global.csv,Turkey,12/10/2020,955766,1748567,Update from Turkey MOH
+12/15/2020,time_series_covid19_confirmed_us.csv,"Hays, Texas",12/14/2020,10263,9288,Update from Texas State dashboard
+12/15/2020,time_series_covid19_confirmed_global.csv,US,12/14/2020,16519462,16518487,Update from Texas State dashboard
+12/18/2020,time_series_covid19_confirmed_US.csv,"Washington, US",12/17/2020,,,Update based on Washington source
+12/18/2020,time_series_covid19_confirmed_global.csv,US,12/17/2020,17206647,17209587,Update based on Washington source
+12/18/2020,time_series_covid19_deaths_US.csv,"Washington, US",12/17/2020,,,Update based on Washington source
+12/18/2020,time_series_covid19_deaths_global.csv,US,12/17/2020,310699,310774,Update based on Washington source
