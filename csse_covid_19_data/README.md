@@ -172,6 +172,19 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * January 15, 2021: Kansas, US | Adjustment of time series to use data from Douglas County Coronavirus Response and Recovery Hub | All time files and daily reports | [Douglas Dashboard](https://coronavirus-response-dgco.hub.arcgis.com/)
 * January 15, 2021: Kansas, US | Adjustment of time series to use data from Finney County COVID-19 Resource Hub | All time files and daily reports | [Finney Dashboard](https://finney-county-coronavirus-response-finneycountygis.hub.arcgis.com/)
 * January 15, 2021: Kansas, US | Adjustment of time series to use data from Riley County Corona Virus Response | All time files and daily reports | [Riley Dashboard](https://coronavirus-response-rcitgis.hub.arcgis.com/)
+* January 19, 2021: California, US | Adjustment of time series to shift data for later sampling time from California State Government | All time files and daily reports | [California State Government](https://covid19.ca.gov/state-dashboard/)
+* January 19, 2021: California, US | Adjustment of time series to shift data for later sampling time from California State Government | All time files and daily reports | [California State Government](https://covid19.ca.gov/state-dashboard/)
+* January 19, 2021: Douglas, Nebraska, US | The original death data on 1/07 (617) was due to a data entry error from the county health department, which was corrected on 1/08. However, the state health department has been unable to provide a proper death total for this day. To remove the artificial spike, we have held the death total from 1/06 stale (525). | time_series_covid19_deaths_US.csv, time_series_covid19_deaths_global.csv, 01-07-2021.csv | No source needed
+* January 21, 2021: Sweden | See issue #3594, the deaths have been altered to be consistently "deaths by date of report" | time_series_covid19_deaths_global.csv | [Source](https://www.svt.se/special/articledata/2322/fohm_timeline.json)
+* January 25, 2021: Haiti | Adjustment of time series to use data from Haiti Ministry of Health | All time series files and daily reports | [Source](https://www.mspp.gouv.ht/)
+* January 25, 2021: California, US | Revision of cases for Orange County, CA to include probable cases from 2020-04-01 to 2021-01-24 | All time series files and daily reports | [Source](https://ochca.maps.arcgis.com/apps/opsdashboard/index.html#/cc4859c8c522496b9f21c451de2fedae)
+* January 25, 2021: California, US | Revision of cases for Stanislaus County, CA to include probable cases from 2020-04-17 to 2021-01-24 | All time series files and daily reports | [Source](https://experience.arcgis.com/experience/c29aa0c6a84844ceab6601da4b124c0b)
+* January 26, 2021: Sudan | Adjustment of cases for Sudan to World Health Organization data from 2020-3-13 to 2021-01-25 | All time series files and daily reports | [Source](https://covid19.who.int/WHO-COVID-19-global-table-data.csv)
+* January 27, 2021: Missouri, US | Adjustment of St. Louis City, MO cases and deaths from 2020-03-03 to 2021-01-26 | All time series files and daily reports | [Source](https://www.stlouis-mo.gov/covid-19/data/)
+* January 28, 2021: Quebec, Canada | Adjustment of Quebec deaths from 2020-03-17 to 2021-01-27 | All time series files and daily reports | [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/situation-coronavirus-in-quebec/)
+* February 01, 2021: Illinois, US | Adjustment of Illinois probable deaths from 2020-11-07 to 2021-01-31 | All time series files and daily reports | [Source](https://www.dph.illinois.gov/covid19)
+* February 02, 2021: Lithuania | Adjustment of Lithuania cases, deaths, and recovered from 2020-02-28 to 2021-02-01 based on Lithuania dashboard | All time series files and daily reports | [Dashboard](https://osp.maps.arcgis.com/apps/MapSeries/index.html?appid=c6bc9659a00449239eb3bde062d23caa)
+* February 09, 2021: Indiana, US | Redsitribution of previously identified historical deaths to unassigned category. State total reported from Department of Health was compared to time_series_covid19_deaths_us.csv and the difference was distributed to Unassigned, Indiana. | All time series files and daily reports | [Indiana source](https://www.coronavirus.in.gov/2393.htm) | We hope to receive a county level distribution from the state health department but we have not yet received a response
 
 
 
@@ -245,6 +258,8 @@ Date: Location | Change | Reason/Other notes | Source
 * December 16: California, US | California dashboard included 15,337 historical cases in their December 16 update | We pull from several sources including the California State Daashboard so it is unclear how these historical cases are distributed within our data | [Source](https://covid19.ca.gov/state-dashboard/)
 * December 17: Hidalgo, Texas, US | Reduction in cases due to double counting probable and confirmed cases | [Source 1](https://www.hidalgocounty.us/DocumentCenter/View/43316/12162020---Eight-deaths-related-to-COVID-19-reported-in-Hidalgo-County-along-with-377-positive-cases), [Source 2](https://www.hidalgocounty.us/DocumentCenter/View/43374/12172020---Four-deaths-related-to-COVID-19-reported-in-Hidalgo-County-along-with-522-positive-cases)
 * January 5: Alabama, US | Backlog of cases from the holiday period resulted in daily record of cases | Quote from source: "Case counts reported on today's update are high. Today's increase represents a delay in testing and reporting to the Alabama Department of Public Health (ADPH) due to the holiday weekends." | [Source](https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7)
+* January 25: Hawaii, US | Identification of unreported COVID-19 deaths results in a statewide spike of 60 deaths | [Source](https://www.kitv.com/story/43230995/60-covid19-related-deaths-went-unreported-doh-finds)
+* February 5: Indiana, US | "Today's total deaths includes 1,507 historical deaths identified through an audit of 2020 and 2021 COVID death records and test results." | [Source](https://www.coronavirus.in.gov/2393.htm) | **See Data Mod records**
 
 ## Large-scale back distributions
 This section will serve to notify developers when we are able to successfully backdistribute any of the large instances of retrospective reporting.
@@ -285,6 +300,8 @@ United States
 * Michigan: Not providing death data on Sundays.
 * Florida: Did not update on weekend for October 10-11.
 * Washington: Did not update October 10-12 due to data entry issue. Back distribution is not available. As of December 20, no longer providing updates on Sundays.
+* Alaska: Only providing data Monday and Friday.
+* Idaho: Not providing data on Sundays.
 
 International
 * Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.
