@@ -972,7 +972,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 31061,Franklin,Nebraska,US,3/30/20 22:52,40.17636348,-98.95299073,0,0,0,0,"Franklin, Nebraska, US"
 36033,Franklin,New York,US,3/30/20 22:52,44.59040891,-74.29926032,6,0,0,0,"Franklin, New York, US"
 37069,Franklin,North Carolina,US,3/30/20 22:52,36.081519,-78.28708884,5,0,0,0,"Franklin, North Carolina, US"
-39049,Franklin,Ohio,US,3/30/20 22:52,39.96995815,-83.01115755,281,5,0,0,"Franklin, Ohio, US"
+39049,Franklin,Ohio,US,3/30/20 22:52,39.96995815,-83.01115755,281,6,0,0,"Franklin, Ohio, US"
 42055,Franklin,Pennsylvania,US,3/30/20 22:52,39.92956518,-77.72157791,12,0,0,0,"Franklin, Pennsylvania, US"
 47051,Franklin,Tennessee,US,3/30/20 22:52,35.15634626,-86.09201039,6,0,0,0,"Franklin, Tennessee, US"
 48159,Franklin,Texas,US,3/30/20 22:52,33.17653242,-95.21917243,1,0,0,0,"Franklin, Texas, US"
@@ -1165,7 +1165,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 20075,Hamilton,Kansas,US,3/30/20 22:52,37.99978709,-101.7921066,0,0,0,0,"Hamilton, Kansas, US"
 31081,Hamilton,Nebraska,US,3/30/20 22:52,40.87349452,-98.02099117,0,0,0,0,"Hamilton, Nebraska, US"
 36041,Hamilton,New York,US,3/30/20 22:52,43.66146647,-74.49721957,2,0,0,0,"Hamilton, New York, US"
-39061,Hamilton,Ohio,US,3/30/20 22:52,39.19673558,-84.54502924,101,5,0,0,"Hamilton, Ohio, US"
+39061,Hamilton,Ohio,US,3/30/20 22:52,39.19673558,-84.54502924,101,6,0,0,"Hamilton, Ohio, US"
 47065,Hamilton,Tennessee,US,3/30/20 22:52,35.17670231,-85.16652245,35,1,0,0,"Hamilton, Tennessee, US"
 48193,Hamilton,Texas,US,3/30/20 22:52,31.70470573,-98.11083887,0,0,0,0,"Hamilton, Texas, US"
 46057,Hamlin,South Dakota,US,3/30/20 22:52,44.67385954,-97.18829593,1,0,0,0,"Hamlin, South Dakota, US"
@@ -1282,7 +1282,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 37093,Hoke,North Carolina,US,3/30/20 22:52,35.01888303,-79.23651674,3,0,0,0,"Hoke, North Carolina, US"
 12059,Holmes,Florida,US,3/30/20 22:52,30.86747479,-85.81319222,0,0,0,0,"Holmes, Florida, US"
 28051,Holmes,Mississippi,US,3/30/20 22:52,33.12345854,-90.08923538,13,1,0,0,"Holmes, Mississippi, US"
-39075,Holmes,Ohio,US,3/30/20 22:52,40.56163713,-81.92635677,1,1,0,0,"Holmes, Ohio, US"
+39075,Holmes,Ohio,US,3/30/20 22:52,40.56163713,-81.92635677,1,0,0,0,"Holmes, Ohio, US"
 29087,Holt,Missouri,US,3/30/20 22:52,40.09799248,-95.2163888,0,0,0,0,"Holt, Missouri, US"
 31089,Holt,Nebraska,US,3/30/20 22:52,42.45522056,-98.78402558,0,0,0,0,"Holt, Nebraska, US"
 15003,Honolulu,Hawaii,US,3/30/20 22:52,21.45803166,-157.9712182,123,0,0,0,"Honolulu, Hawaii, US"
@@ -3393,7 +3393,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Panama,3/30/20 22:52,8.538,-80.7821,989,24,4,961,Panama
 ,,,Papua New Guinea,3/30/20 22:52,-6.314993,143.95555,1,0,0,1,Papua New Guinea
 ,,,Paraguay,3/30/20 22:52,-23.4425,-58.4438,64,3,1,60,Paraguay
-,,,Peru,3/30/20 22:52,-9.19,-75.0152,950,24,53,873,Peru
+,,,Peru,3/30/20 22:52,-9.19,-75.0152,950,113,53,873,Peru
 ,,,Philippines,3/30/20 22:52,12.879721,121.774017,1546,78,42,1426,Philippines
 ,,,Poland,3/30/20 22:52,51.9194,19.1451,2055,31,7,2017,Poland
 ,,,Portugal,3/30/20 22:52,39.3999,-8.2245,6408,140,43,6225,Portugal
@@ -3441,3 +3441,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,West Bank and Gaza,3/30/20 22:52,31.9522,35.2332,116,1,18,97,West Bank and Gaza
 ,,,Zambia,3/30/20 22:52,-13.133897,27.849332,35,0,0,35,Zambia
 ,,,Zimbabwe,3/30/20 22:52,-19.015438,29.154857,7,1,0,6,Zimbabwe
+,,Unknown,China,3/30/20 22:52,,,0,0,0,0,"Unknown, China"
+,,,Kiribati,3/30/20 22:52,-3.3704,-168.734,0,0,0,0,Kiribati
+,,,Palau,3/30/20 22:52,-3.3704,-168.734,0,0,0,0,Palau
+,,Cook Islands,New Zealand,3/30/20 22:52,-3.3704,-168.734,0,0,0,0,"Cook Islands, New Zealand"
